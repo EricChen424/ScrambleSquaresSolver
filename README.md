@@ -6,5 +6,7 @@ Scramble Squares is a puzzle involving 9 squares with a half-image on each side 
 To use this app, it's preferable to first number your squares from 1-9 to keep track of them. Next, define each unique half-image as one of the remaining letters a-d, and that half-image's counterpart as the capital letter equivalent. Click "Add Square" and input each square, then click "Solve Puzzle" to produce the solution.
 
 "Remove Last Square" - removes the square most recently added to allow editing.
+
 "Reset Puzzle" - resets the entire app to its startup state.
+
 "Help" - quick help window
